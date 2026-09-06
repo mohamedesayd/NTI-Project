@@ -1,0 +1,57 @@
+{/home/eldo/work/NTI Project/rtl/mac_accelerator/regfile.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/regfile.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/synch_dual_port_memory/synch_dual_port_memory.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/synch_dual_port_memory/synch_dual_port_memory.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module synch_dual_port_memory
+
+Top level modules:
+	synch_dual_port_memory
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/multiplier.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/multiplier.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/regfile_reg.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/regfile_reg.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module regfile_reg
+
+Top level modules:
+	regfile_reg
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/controller.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/controller.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/accumulator.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/accumulator.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module accumulator
+
+Top level modules:
+	accumulator
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/cfg_reg.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/cfg_reg.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module cfg_reg
+
+Top level modules:
+	cfg_reg
+
+} {} {}} {/home/eldo/work/NTI Project/rtl/mac_accelerator/mac_accelerator.v} {1 {vlog -work work -vopt -stats=none {/home/eldo/work/NTI Project/rtl/mac_accelerator/mac_accelerator.v}
+QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
+-- Compiling module mac_accelerator
+
+Top level modules:
+	mac_accelerator
+
+} {} {}}

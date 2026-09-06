@@ -1,0 +1,8 @@
+work/
+*.wlf
+transcript
+verdiLog/
+novas.conf
+novas.rc
+*.vstf
+*.log
