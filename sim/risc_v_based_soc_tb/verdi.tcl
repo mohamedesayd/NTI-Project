@@ -1,1 +1,0 @@
-wvAddSignal -scope risc_v_based_soc_tb
