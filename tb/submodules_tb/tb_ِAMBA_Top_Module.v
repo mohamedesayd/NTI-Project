@@ -193,7 +193,7 @@ initial begin
     repeat (4)    @(negedge clk);
 
 //-------------------
-// 5- Read transfers With wait states
+// 5- Read transfers With wait states -> should be done with different slave
     transfer =0;
     repeat (1)    @(negedge clk);
     transfer =1;
