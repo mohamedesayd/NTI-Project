@@ -206,5 +206,4 @@ Simulation finished at time 5165 ns with 0 Errors and 0 Warnings.
 
 ## 📄 Documentation Deliverables
 
-- 📘 [Final_Project_Report.docx](Final_Project_Report.docx) — Complete technical proposal and engineering report.
-- 📕 [Final_Project_Report.pdf](Final_Project_Report.pdf) — Printable PDF version.
+- 📕 [Final_Project_Report.pdf](Final_Project_Report.pdf) — Complete technical proposal and engineering report, Printable PDF version.
